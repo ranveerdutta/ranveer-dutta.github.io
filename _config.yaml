@@ -1,2 +1,3 @@
 name: Ranveer Dutta, Programmer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
